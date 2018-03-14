@@ -1,0 +1,16 @@
+#banner {
+    padding: 7em 1em;
+    background-image: url(/fonts/bullish.svg?16d63f5…);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+@media only screen and (max-width: 767px) {
+    #banner {
+        background-image: none;
+    }
+}
+
+.page-header img {
+    width: 36px;
+}
