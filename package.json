@@ -27,6 +27,7 @@
     "vue": "^2.1.10"
   },
   "dependencies": {
+    "popper.js": "^1.16.0",
     "underscore": "^1.8.3"
   }
 }
